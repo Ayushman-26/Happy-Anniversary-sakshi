@@ -128,7 +128,7 @@ const ParticleScene: React.FC<ParticleSceneProps> = ({ onNext }) => {
           Through ups and downs, we held on tight
         </h1>
         <h2 className="text-4xl md:text-6xl font-light text-pink-600 mb-8 text-center tracking-wider">
-          Three years together, still shining bright
+          Two years together, still shining bright
         </h2>
         <h3 className="text-2xl md:text-4xl font-normal text-purple-600 text-center tracking-wide">
           Forever and always, I love you babuuu✨
